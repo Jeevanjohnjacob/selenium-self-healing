@@ -5,7 +5,7 @@ Thanks for your interest in contributing! Here's how you can help.
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/selenium-self-healing.git`
+2. Clone your fork: `git clone https://github.com/Jeevanjohnjacob/selenium-self-healing.git`
 3. Create a virtual environment: `python -m venv venv && source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run tests: `pytest tests/ -v`

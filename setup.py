@@ -6,9 +6,9 @@ setup(
     description="A self-healing Selenium test framework that auto-recovers from broken locators",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/selenium-self-healing",
+    author="Jeevan John Jacob",
+    author_email="jeevanjohn.jacob@gehealthcare.com",
+    url="https://github.com/Jeevanjohnjacob/selenium-self-healing",
     packages=find_packages(),
     python_requires=">=3.9",
     install_requires=[

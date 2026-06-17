@@ -29,7 +29,7 @@ This framework wraps Selenium's element-finding logic with a self-healing layer 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/selenium-self-healing.git
+git clone https://github.com/Jeevanjohnjacob/selenium-self-healing.git
 cd selenium-self-healing
 pip install -r requirements.txt
 ```
